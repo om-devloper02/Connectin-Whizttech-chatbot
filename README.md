@@ -1,8 +1,11 @@
 🎓 Admission ChatBot
 A terminal-based chatbot developed using Python and the colorama library that helps students inquire about and enroll in various IT courses offered by Connectin Whizttech.
 
+
+
 📌 Features
 Collects user details like name, contact number, email, city, and qualification.
+
 
 Displays a menu of IT courses.
 
@@ -14,15 +17,19 @@ Handles invalid inputs gracefully.
 
 Option to ask additional questions or exit the program.
 
+
 🛠️ Technologies Used
 Python 3
+
 
 colorama - For colored text in the terminal
 
 re (regex) - For input validation (not actively used in current version)
 
+
 📥 Installation
 Clone this repository:
+
 
 cd admission-chatbot
 Install required packages:

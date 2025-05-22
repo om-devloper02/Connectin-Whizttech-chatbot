@@ -24,10 +24,6 @@ re (regex) - For input validation (not actively used in current version)
 📥 Installation
 Clone this repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/admission-chatbot.git
 cd admission-chatbot
 Install required packages:
 
